@@ -1,4 +1,11 @@
 # Correlation and regression for data analysis
+
+## Date : 03-05-2026
+
+## Developed By : RAJASHRI I
+
+## Register Number : 212224040261
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
